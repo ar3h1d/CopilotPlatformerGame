@@ -9,4 +9,4 @@ A game made completely with Copilot AI
 
 ![screenshot](./Screenshot.png)
 
-## [Download Windows Version](./main.exe)
+## [Download Windows Version](https://github.com/ar3h1d/CopilotPlatformerGame/raw/refs/heads/main/main.exe)
